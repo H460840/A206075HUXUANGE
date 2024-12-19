@@ -1,0 +1,55 @@
+<!-- Page 4: Working Experience -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Working Experience</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px auto;
+        }
+        table, th, td {
+            border: 1px solid #000;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Working Experience</h1>
+
+    <table>
+        <tr>
+            <th>Job Title</th>
+            <th>Company Name</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Responsibilities</th>
+        </tr>
+        <tr>
+            <td>HR Manager</td>
+            <td>Beijing Electric Power Co., Ltd.</td>
+            <td>January 2024</td>
+            <td>February 2024</td>
+            <td>This role taught me a lot and laid the foundation for my future job applications.</td>
+        </tr>
+    </table>
+
+    <nav>
+        <a href="page1.html">Go to Personal Background</a>
+        | <a href="page2.html">Go to Education and Skills</a>
+        | <a href="page3.html">Go to Achievements</a>
+    </nav>
+</body>
+</html>
