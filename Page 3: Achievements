@@ -1,0 +1,30 @@
+<!-- Page 3: Achievements -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ffcccc, #ffe6e6);
+            margin: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Achievements</h1>
+
+    <p><b>Achievement 1:</b> [Brief description of the achievement]</p>
+    <p><i>Achievement 2:</i> [Brief description of the achievement]</p>
+    <p><b>Achievement 3:</b> [Brief description of the achievement]</p>
+
+    <nav>
+        <a href="page1.html">Go to Personal Background</a>
+        | <a href="page2.html">Go to Education and Skills</a>
+        | <a href="page4.html">Go to Working Experience</a>
+    </nav>
+</body>
+</html>
