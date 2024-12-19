@@ -1,0 +1,37 @@
+<!-- Page 2: Education and Skills -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education and Skills</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6ffe6;
+            margin: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Education and Skills</h1>
+
+    <h2>Education</h2>
+    <ol>
+        <li>UKM University (March 2024 - 2027)</li>
+    </ol>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Proficient in using computer functions</li>
+        <li>Knowledgeable in economics</li>
+    </ul>
+
+    <nav>
+        <a href="page1.html">Go to Personal Background</a>
+        | <a href="page3.html">Go to Achievements</a>
+        | <a href="page4.html">Go to Working Experience</a>
+    </nav>
+</body>
+</html>
