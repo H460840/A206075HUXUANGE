@@ -1,0 +1,63 @@
+<!-- Page 1: Personal Background -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Background</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px auto;
+        }
+        table, th, td {
+            border: 1px solid #000;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personal Background</h1>
+    <img src="profile.jpg" alt="Profile Photo" style="width:150px; height:auto; border-radius:50%;">
+    <p>Hello! My name is HU XUANGE. I am passionate about traveling. In my free time, I enjoy playing the piano.</p>
+
+    <table>
+        <tr>
+            <th>Detail</th>
+            <th>Information</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>HU XUANGE</td>
+        </tr>
+        <tr>
+            <td>Date of Birth</td>
+            <td>2004-10-10</td>
+        </tr>
+        <tr>
+            <td>Contact Information</td>
+            <td>Phone: 147314262<br>Email: hhhhhhhh1010@qq.com</td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>Tiara Bangi</td>
+        </tr>
+    </table>
+
+    <nav>
+        <a href="page2.html">Go to Education and Skills</a>
+        | <a href="page3.html">Go to Achievements</a>
+        | <a href="page4.html">Go to Working Experience</a>
+    </nav>
+</body>
+</html>
